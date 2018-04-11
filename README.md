@@ -10,7 +10,7 @@ This project contains three main files for different versions.
 
 - `Game.java` is written in java with no gui.
 
-## Play
+## How To Play
 For Python:
 ```
 $ python3 game_2048_no_gui.py
