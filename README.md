@@ -1,5 +1,5 @@
 # 2048
-This project contains three main file for three different versions.
+This project contains three main files for different versions.
 
 - `game_2048_no_gui.py` is written in python with no gui.
 
