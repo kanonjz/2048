@@ -1,6 +1,13 @@
-# 2048 in multi language
+# 2048
+This project contains three main file for three different versions.
 
-## 测试数据
+**game_2048_no_gui.py** is written in python with no gui.
+
+**game_2048_with_gui.py** is written in python with gui.
+
+**Game.java** is written in java with no gui.
+
+## 
 
 [0, 4, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 2, 0, 0]
 
