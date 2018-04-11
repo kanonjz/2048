@@ -10,7 +10,7 @@ This project contains three main files for different versions.
 
 - `Game.java` is written in java with no gui.
 
-## How To Play
+## How to play
 For Python:
 ```
 $ python3 game_2048_no_gui.py
@@ -24,7 +24,7 @@ $ javac Game.java
 $ java Game
 ```
 
-## Test Cases
+## Test cases
 [0, 4, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 2, 0, 0]
 
 ```
