@@ -54,5 +54,5 @@ $ java Game
 ```
 
 ## Have fun！
-
+Wish you a nice day.
 
