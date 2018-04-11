@@ -1,4 +1,4 @@
-# 2048
+# my-2048
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)
 
@@ -10,7 +10,7 @@ This project contains three main files for different versions.
 
 - `Game.java` is written in java with no gui.
 
-# Play
+## Play
 For Python:
 ```
 $ python3 game_2048_no_gui.py
@@ -24,7 +24,7 @@ $ javac Game.java
 $ java Game
 ```
 
-# Test Cases
+## Test Cases
 [0, 4, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 2, 0, 0]
 
 ```
